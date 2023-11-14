@@ -100,6 +100,9 @@ Let's turn pixels into magic and make your digital dreams come true! ✨🚀"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeTechx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### 🥇 Git Stats :
+![Joex's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeTechx&show_icons=true&theme=radical)
 <!--
 **JoeTechx/joetechx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
