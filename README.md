@@ -48,12 +48,12 @@ If you're ready to transform your vision into a digital masterpiece, I'm here to
     📱 Contact Me: 08118276455 09066287546
   </p>
  
-### [🌐 Portfolio] (https://joexportfolio.netlify.app/)
-        ### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
+### [🌐 Portfolio](https://joexportfolio.netlify.app/)
 
  ### [📧 Email](oyinjoe23@gmail.com)
  
-### [📱 LinkedIn] (https://www.linkedin.com/in/oyinloye-joseph-b79820239/)
+### [📱 LinkedIn](https://www.linkedin.com/in/oyinloye-joseph-b79820239/)
+
 </div>
     
 Let's turn pixels into magic and make your digital dreams come true! ✨🚀"
